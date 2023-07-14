@@ -1,0 +1,69 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Luxery room with double bed",
+      "image": "https://live.staticflickr.com/65535/52521005582_8d8292fd27_z.jpg",
+      "category": "double",
+      "price": 3500
+    },
+    {
+      "id": 2,
+      "name": "Normal room with double bed",
+      "image": "https://live.staticflickr.com/65535/49969396207_9417bd2fc7_b.jpg",
+      "category": "double",
+      "price": 2200
+    },
+    {
+      "id": 3,
+      "name": "Normal room with single bed",
+      "image": "https://live.staticflickr.com/65535/47948321443_3d5fe059d4_z.jpg",
+      "category": "single",
+      "price": 2000
+    },
+    {
+      "id": 4,
+      "name": "Luxery room with single bed",
+      "image": "https://live.staticflickr.com/7247/7745320396_9178f45b79_b.jpg",
+      "category": "single",
+      "price": 3000
+    },
+    {
+      "id": 5,
+      "name": "Kings room",
+      "image": "https://live.staticflickr.com/5307/5553224667_d03124bbc2_z.jpg",
+      "category": "kings",
+      "price": 6000
+    }
+  ],
+  "users": [
+    {
+      "name": "Anik Sikder",
+      "email": "aniksikder01@gmail.com",
+      "phone": "01986072462",
+      "password": "aaaaaa",
+      "roomId": [],
+      "id": 1
+    },
+    {
+      "name": "Anik Sikder",
+      "email": "aniksikder9501@gmail.com",
+      "phone": "01986072462",
+      "password": "aaaaa",
+      "roomId": [
+        2
+      ],
+      "id": 2
+    },
+    {
+      "name": "Anik Sikder",
+      "email": "admin@gmail.com",
+      "phone": "01985622700",
+      "password": "aaaaa",
+      "roomId": [
+        3
+      ],
+      "id": 3
+    }
+  ]
+}
