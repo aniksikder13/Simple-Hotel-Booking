@@ -36,34 +36,5 @@
       "price": 6000
     }
   ],
-  "users": [
-    {
-      "name": "Anik Sikder",
-      "email": "aniksikder01@gmail.com",
-      "phone": "01986072462",
-      "password": "aaaaaa",
-      "roomId": [],
-      "id": 1
-    },
-    {
-      "name": "Anik Sikder",
-      "email": "aniksikder9501@gmail.com",
-      "phone": "01986072462",
-      "password": "aaaaa",
-      "roomId": [
-        2
-      ],
-      "id": 2
-    },
-    {
-      "name": "Anik Sikder",
-      "email": "admin@gmail.com",
-      "phone": "01985622700",
-      "password": "aaaaa",
-      "roomId": [
-        3
-      ],
-      "id": 3
-    }
-  ]
+  "users": []
 }
